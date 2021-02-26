@@ -18,14 +18,14 @@
     "lint": "npm-run-all -p lint:js lint:styles",
     "test": ""
   },
-  "repository": "https://github.com/ryoma310/growi-plugin-calendar",
+  "repository": "https://github.com/weseek/growi-plugin-boilerplate",
   "author": "Change This <change-this@example.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ryoma310/growi-plugin-calendarissues"
+    "url": "https://github.com/weseek/growi-plugin-boilerplate/issues"
   },
   "dependencies": {
-    "growi-commons": "^4.0.7"
+    "growi-commons": "^5.0.3"
   },
   "devDependencies": {
     "babel-eslint": "^10.0.2",
